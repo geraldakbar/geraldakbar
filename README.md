@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **geraldakbar/geraldakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="logo-itb" src="https://seeklogo.com/images/I/institut-teknologi-bandung-logo-7B8F816823-seeklogo.com.png" height="200" width="200">
