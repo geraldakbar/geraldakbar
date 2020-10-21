@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="logo-itb" src="https://seeklogo.com/images/I/institut-teknologi-bandung-logo-7B8F816823-seeklogo.com.png" height="200" width="200">
+
+<h3>My name is Gerald<h3>
+<p><h3>I'm currently an undergraduate student at</h3>
+<img alt="logo-itb" src="https://seeklogo.com/images/I/institut-teknologi-bandung-logo-7B8F816823-seeklogo.com.png" height="150" width="150"></p>
+<div float="left">
+  <h3>At the moment, I am trying to learn</h3>
+  <img alt="logo-pyhton" src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" height="50" width="75"> 
+  <img alt="logo-js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="50"   width="75"/>
+</div>
+<h3>I am really interested in technology especially in Artificial intelligence</h3>
+<h3>I Hope that someday I can invent an AI that makes our lives better and easier, that could be used by everyone regardless of conditons they are in</h3>
