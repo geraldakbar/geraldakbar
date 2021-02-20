@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
  <div class="dreams">
 <h3>I am really interested in technology especially in Artificial intelligence</h3>
-  <h4>I Hope that someday I can use AI to makes our lives better and easier, that could be used by everyone regardless of conditons they are in. but before that i would like to be able to work at the top companies also known as "FAANG"</h4>
+  <h4>I Hope that someday I can use AI to make our lives better and easier, that could be used by everyone regardless of conditons they are in. but before that i would like to be able to work at the top companies also known as "FAANG"</h4>
    <img src="https://miro.medium.com/max/4000/1*dqc9peXAN_zSS-T1-Kq5-A.jpeg" height="150" width="200">
   </div>
  <div class="social-media">
