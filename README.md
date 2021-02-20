@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <div float="left">
   <h3>I'm currently an undergraduate student at Bandung Institute of Technology(ITB)</h3>
   </div>
-<div float="left">
-  <h3>At the moment, I am trying to learn</h3>
-  <img alt="logo-pyhton" src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" height="50" width="75"> 
-  <img alt="logo-js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="50"   width="75"/>
 </div>
  <div class="dreams">
 <h3>I am really interested in technology especially in Artificial intelligence</h3>
