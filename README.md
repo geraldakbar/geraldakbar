@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
  <div class="dreams">
 <h3>I am really interested in technology especially in Artificial intelligence</h3>
-  <h4>I Hope that someday I can use AI to make our lives better and easier, that could be used by everyone regardless of conditons they are in</h4>
+  <h4>My dream is to invent an AI that can be used by everyone, regardless of their financial condition</h4>
  <div class="social-media">
    <h3>You can find me at</h3>
    <a href="https://www.linkedin.com/in/geraldakbar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="75" height="50"></a>
