@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   <h3>I'm currently an undergraduate student at Bandung Institute of Technology(ITB)</h3>
   </div>
 </div>
- <div class="dreams">
-<h3>I am really interested in technology especially in Artificial intelligence</h3>
-  <h4>My dream is to invent an AI that can be used by everyone, regardless of their financial condition</h4>
  <div class="social-media">
    <h3>You can find me at</h3>
    <a href="https://www.linkedin.com/in/geraldakbar/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="75" height="50"></a>
