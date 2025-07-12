@@ -1,7 +1,5 @@
 # 💫 About Me:
-Final year computer science student in Bandung, Indonesia. Keen on growing as a Backend Engineer, I'm currently learning Cloud Computing Technologies specifically those provided in the Google Cloud Platform. Interested in designing and implementing modern robust software architecture especially backend system designs. 
-
-
+I'm a software engineer who enjoys building cloud-based data engineering and backend systems. I like working behind the scenes—designing systems that are reliable, scalable, and easy to maintain. I'm also interested in system design and gradually learning how to make better architectural decisions as I go.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geraldakbar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldakbar) 
